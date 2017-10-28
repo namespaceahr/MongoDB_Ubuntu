@@ -1,6 +1,6 @@
 ## Ubuntu 12.04 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](http://namespaceahr.com) Ubuntu 14.04 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](http://namespaceahr.com)
 
-## Documentation [![Inline docs](http://inch-ci.org/github/dwyl/hapi-auth-jwt2.svg?branch=master)](2)
+## Documentation [![Inline docs](http://inch-ci.org/github/dwyl/hapi-auth-jwt2.svg?branch=master)]
 ## How to Install ?
 On your Linux Bash:
 
