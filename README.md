@@ -11,7 +11,7 @@ wget https://github.com/namespaceahr/MongoDB_Ubuntu/blob/master/mongo.sh
 Give execution permission
 
 ```md
-chmod +x mongo.sh ./install.sh
+chmod +x mongo.sh
 ```
 
 Now Run Install 
