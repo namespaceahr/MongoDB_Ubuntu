@@ -17,7 +17,7 @@ chmod +x mongo.sh ./install.sh
 Now Run Install 
 
 ```md
-./install.sh
+./mongo.sh
 ```
 
 ### Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
