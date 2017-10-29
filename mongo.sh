@@ -4,7 +4,7 @@ read -r -p "Are you sure want to install MongoDB ? [y/N] " response
 if [[ "$response" =~ ^([yY][eE][sS]|[yY])+$ ]]
 then
  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
-if (( $(lsb_release -r) == "12.04" ));
+if lsb_release -r == "12.04" 
 then
 echo "deb http://repo.mongodb.org/apt/ubuntu precise/mongodb-org/3.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.0.list
 sudo apt-get update
